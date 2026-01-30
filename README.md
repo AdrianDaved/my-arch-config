@@ -1,0 +1,1 @@
+## my Hyprland & Kitty config
