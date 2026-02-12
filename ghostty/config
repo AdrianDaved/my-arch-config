@@ -1,5 +1,6 @@
 theme = Kitty Default
 font-family = Cascadia Code
+font-size = 15
 window-padding-x = 5
 
 
